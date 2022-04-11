@@ -1,5 +1,5 @@
 let cont = document.getElementById("cont");
-let limit = 20;
+let limit = 25;
 let pagecount = 1;
 
 function getList() {
